@@ -1,9 +1,7 @@
 #u839
 {
-	background-color: #000000;
-	opacity: 0.8;
-	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=80)";
-	filter: alpha(opacity=80);
+	position: fixed;
+	background: transparent url("../images/bar1-2.png") no-repeat left top;
 }
 
 #menuu840
@@ -70,6 +68,34 @@
 	background: url("../images/u2142-a.png") no-repeat 0px 0px;
 }
 
+#u2731,#u2732
+{
+	background-color: transparent;
+	position: relative;
+}
+
+#u2733
+{
+	vertical-align: top;
+	position: relative;
+	background: url("../images/u2733.png") no-repeat 0px 0px;
+}
+
+#u2732:hover #u2733
+{
+	background: url("../images/u2733-r.png") no-repeat 0px 0px;
+}
+
+#u2732:active #u2733
+{
+	background: url("../images/u2733-m.png") no-repeat 0px 0px;
+}
+
+#u2732.MuseMenuActive #u2733
+{
+	background: url("../images/u2733-a.png") no-repeat 0px 0px;
+}
+
 #u2145,#u2146
 {
 	background-color: transparent;
@@ -133,7 +159,20 @@
 
 #u869
 {
+	background-color: transparent;
 	overflow: hidden;
+	position: fixed;
+}
+
+#u869:hover
+{
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+}
+
+#u2628
+{
 	position: fixed;
 }
 

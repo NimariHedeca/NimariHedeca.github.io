@@ -1,23 +1,23 @@
-<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="comestheumbra.com" resolutions="1x" timestamp="1449755712273">
+<manifest alg="2" build="2015.0.2.310" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="comestheumbra.com" resolutions="1x" timestamp="1450075742485">
   <folder name="css">
-    <file name="site_global.css" crc="114841889"/>
-    <file name="master_a-master.css" crc="4068340518" ref="index"/>
-    <file name="master_b-master.css" crc="40277140" ref="about:attend:untitled-6:films:tickets"/>
-    <file name="about.css" crc="503471705" ref="about"/>
-    <file name="attend.css" crc="494988366" ref="attend"/>
-    <file name="index.css" crc="3840872997" ref="index"/>
-    <file name="untitled-6.css" crc="4172656177" ref="untitled-6"/>
-    <file name="films.css" crc="3918989167" ref="films"/>
-    <file name="tickets.css" crc="3771936691" ref="tickets"/>
+    <file name="site_global.css" crc="391831836"/>
+    <file name="master_b-master.css" crc="328605915" ref="untitled-6:films:attend:index:director:tickets:about"/>
+    <file name="untitled-6.css" crc="3869828711" ref="untitled-6"/>
+    <file name="films.css" crc="495746332" ref="films"/>
+    <file name="attend.css" crc="3776676827" ref="attend"/>
+    <file name="index.css" crc="520007670" ref="index"/>
+    <file name="director.css" crc="132126355" ref="director"/>
+    <file name="tickets.css" crc="4261013834" ref="tickets"/>
+    <file name="about.css" crc="385755613" ref="about"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:about:films:attend:tickets:untitled-6"/>
-    <file name="museutils.js" crc="275725342" ref="index:about:films:attend:tickets:untitled-6"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:films:attend:tickets:untitled-6"/>
-    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:about:films:attend:tickets:untitled-6"/>
-    <file name="jquery.watch.js" crc="3999102769" ref="index:about:films:attend:tickets:untitled-6"/>
-    <file name="jquery.musemenu.js" crc="4042164668" ref="index:about:films:attend:tickets:untitled-6"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:about:films:attend:tickets:untitled-6"/>
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="museutils.js" crc="275725342" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="jquery.scrolleffects.js" crc="206645848" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:films:attend:tickets:untitled-6:director"/>
     <file name="webpro.js" crc="3883484123" ref="tickets"/>
     <file name="form_check.php" crc="3932029206" ref="tickets"/>
     <file name="form_throttle.php" crc="314685628" ref="tickets"/>
@@ -25,66 +25,53 @@
     <file name="form-u990.php" crc="3831932656" ref="tickets"/>
   </folder>
   <folder name="images">
-    <file name="bg-image-web.jpg" crc="302373386" ref="index"/>
-    <file name="u2429-7.png" crc="198743450" ref="index"/>
-    <file name="pasted svg 152217x80.svg" crc="3835589010" ref="index"/>
-    <file name="pasted svg 152217x80_poster_.png" crc="3963340118" ref="index"/>
-    <file name="u2552-5.png" crc="313812112" ref="index"/>
-    <file name="u2554-7.png" crc="4006245033" ref="index"/>
-    <file name="u2560-4.png" crc="4184033879" ref="index"/>
-    <file name="u2555-4.png" crc="3867912348" ref="index"/>
-    <file name="blank.gif" crc="4208392903" ref="index:about:films:attend:tickets:untitled-6"/>
-    <file name="u110.png" crc="4026884969" ref="index"/>
-    <file name="u110-r.png" crc="3944490171" ref="index"/>
-    <file name="u110-m.png" crc="4121880485" ref="index"/>
-    <file name="u110-a.png" crc="4224444976" ref="index"/>
-    <file name="u115.png" crc="3906819931" ref="index"/>
-    <file name="u115-r.png" crc="3796756880" ref="index"/>
-    <file name="u115-m.png" crc="509288922" ref="index"/>
-    <file name="u115-a.png" crc="3903214691" ref="index"/>
-    <file name="u124.png" crc="466855732" ref="index"/>
-    <file name="u124-r.png" crc="4035760078" ref="index"/>
-    <file name="u124-m.png" crc="343455256" ref="index"/>
-    <file name="u124-a.png" crc="4017103753" ref="index"/>
-    <file name="u133.png" crc="3915197147" ref="index"/>
-    <file name="u133-r.png" crc="292025135" ref="index"/>
-    <file name="u133-m.png" crc="4076701698" ref="index"/>
-    <file name="u133-a.png" crc="469044889" ref="index"/>
-    <file name="pasted svg 10432x98.svg" crc="119350686" ref="index:about:films:attend:tickets:untitled-6"/>
+    <file name="bar1-2.png" crc="3831801385" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u865.png" crc="318939520" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u865-r.png" crc="62565860" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u865-m.png" crc="4265461691" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u865-a.png" crc="3904521428" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u2142.png" crc="4245523582" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u2142-r.png" crc="65799389" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u2142-m.png" crc="4232363985" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u2142-a.png" crc="4207762780" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u2733.png" crc="215375569" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u2733-r.png" crc="3993557750" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u2733-m.png" crc="307763418" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u2733-a.png" crc="201662156" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u2147.png" crc="422640421" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u2147-r.png" crc="4138897217" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u2147-m.png" crc="4233382427" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u2147-a.png" crc="416758692" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u2158.png" crc="4263475827" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u2158-r.png" crc="4045972046" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u2158-m.png" crc="4218794017" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u2158-a.png" crc="495590414" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="pasted svg 10432x98.svg" crc="119350686" ref="index:about:films:attend:tickets:untitled-6:director"/>
     <file name="pasted svg 10432x98_poster_.png" crc="3918449721" ref="index"/>
-    <file name="facebook-u324.png" crc="3880823051" ref="index"/>
-    <file name="twitter-u332.png" crc="52378890" ref="index"/>
-    <file name="google--u326.png" crc="434416855" ref="index"/>
-    <file name="pinterest-u330.png" crc="4283727754" ref="index"/>
-    <file name="u259-8.png" crc="3992312211" ref="index"/>
-    <file name="u2455-4.png" crc="193958543" ref="about"/>
+    <file name="pasted svg 152217x80.svg" crc="3835589010" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="pasted svg 152217x80_poster_.png" crc="4043603131" ref="index"/>
+    <file name="bg-image-web.jpg" crc="302373386" ref="index"/>
+    <file name="u2552-5.png" crc="174298165" ref="index"/>
+    <file name="u2555-4.png" crc="3873353955" ref="index"/>
+    <file name="u2560-4.png" crc="4279803564" ref="index"/>
+    <file name="u2554-7.png" crc="3942011253" ref="index"/>
+    <file name="u2429-7.png" crc="198743450" ref="index"/>
+    <file name="facebook-u874.png" crc="3880823051" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="twitter-u880.png" crc="52378890" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="google--u876.png" crc="434416855" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="pinterest-u878.png" crc="4283727754" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="u873-8.png" crc="3992312211" ref="index:about:films:attend:tickets:untitled-6:director"/>
+    <file name="bg-image-web3.jpg" crc="4249660426" ref="about:director"/>
+    <file name="img_8420_6_3_fixed.jpg" crc="421647950" ref="about"/>
+    <file name="u2459-11.png" crc="328736359" ref="about"/>
+    <file name="u2458-6.png" crc="3991947373" ref="about"/>
+    <file name="u2455-4.png" crc="285765089" ref="about"/>
     <file name="u2503-4.png" crc="337503802" ref="about"/>
-    <file name="u2482-4.png" crc="232993976" ref="about"/>
     <file name="u2492-4.png" crc="581631" ref="about"/>
-    <file name="u2454-4.png" crc="3914628720" ref="about"/>
-    <file name="u865.png" crc="4026884969" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u865-r.png" crc="3944490171" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u865-m.png" crc="4121880485" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u865-a.png" crc="4224444976" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u2142.png" crc="3906819931" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u2142-r.png" crc="3796756880" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u2142-m.png" crc="509288922" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u2142-a.png" crc="3903214691" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u2147.png" crc="466855732" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u2147-r.png" crc="4035760078" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u2147-m.png" crc="343455256" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u2147-a.png" crc="4017103753" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u2158.png" crc="3915197147" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u2158-r.png" crc="292025135" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u2158-m.png" crc="4076701698" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u2158-a.png" crc="469044889" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u2458-4.png" crc="183363917" ref="about"/>
-    <file name="u2459-4.png" crc="456744356" ref="about"/>
-    <file name="facebook-u874.png" crc="3880823051" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="twitter-u880.png" crc="52378890" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="google--u876.png" crc="434416855" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="pinterest-u878.png" crc="4283727754" ref="about:films:attend:tickets:untitled-6"/>
-    <file name="u873-8.png" crc="3992312211" ref="about:films:attend:tickets:untitled-6"/>
+    <file name="01-iphone-6-flat-mockup.png" crc="4082438973" seo="true" ref="about"/>
+    <file name="san_francisco_culture_bus.jpg" crc="383988991" seo="true" ref="about"/>
+    <file name="img_8975.jpg" crc="3798347560" seo="true" ref="about"/>
     <file name="screen shot 2015-11-26 at 35638 pm.jpg" crc="3814349614" ref="films"/>
     <file name="u2088-6.png" crc="408387709" ref="films"/>
     <file name="u2093-4.png" crc="89003221" ref="films"/>
@@ -159,6 +146,9 @@
     <file name="checkboxchecked.jpg" crc="3760363524" ref="tickets"/>
     <file name="checkboxcheckedrollover.jpg" crc="3914243265" ref="tickets"/>
     <file name="checkboxcheckedmousedown.jpg" crc="350609565" ref="tickets"/>
+    <file name="1.png" crc="3778104707" seo="true" ref="tickets"/>
+    <file name="2.png" crc="4166193486" seo="true" ref="tickets"/>
+    <file name="5.png" crc="205975569" seo="true" ref="tickets"/>
     <file name="screen shot 2015-11-26 at 50056 pm-crop-u1898.jpg" crc="160995070" ref="untitled-6"/>
     <file name="screen shot 2015-11-26 at 50056 pm-crop-u1919.jpg" crc="4169499139" ref="untitled-6"/>
     <file name="screen shot 2015-11-26 at 50056 pm-crop-u1916.jpg" crc="4138604685" ref="untitled-6"/>
@@ -175,11 +165,15 @@
     <file name="screen shot 2015-11-26 at 42038 pm-crop-u1928.jpg" crc="119407060" ref="untitled-6"/>
     <file name="screen shot 2015-11-26 at 35551 pm.jpg" crc="3916822137" ref="untitled-6"/>
     <file name="screen shot 2015-11-26 at 40153 pm.jpg" crc="76056475" ref="untitled-6"/>
+    <file name="u2751-4.png" crc="443670499" ref="director"/>
+    <file name="u2750-11.png" crc="4139137076" ref="director"/>
+    <file name="david-fincher.jpg" crc="4078790493" ref="director"/>
   </folder>
-  <file name="index.html" crc="208928679" seo="true" mt="1448633254679" redirect="true"/>
-  <file name="about.html" crc="490588534" seo="true" mt="1448630898722" redirect="true"/>
-  <file name="films.html" crc="404312145" seo="true" mt="1449140832169" redirect="true"/>
-  <file name="attend.html" crc="3953667165" seo="true" mt="1449755705514" redirect="true"/>
-  <file name="tickets.html" crc="4114016277" seo="true" mt="1448633562487" redirect="true"/>
-  <file name="untitled-6.html" crc="4197876962" seo="true" mt="1448597505153" redirect="true"/>
+  <file name="index.html" crc="78518340" seo="true" mt="1450069976452" redirect="true"/>
+  <file name="about.html" crc="3764391525" seo="true" mt="1450075281281" redirect="true"/>
+  <file name="films.html" crc="3986698913" seo="true" mt="1450069976452" redirect="true"/>
+  <file name="attend.html" crc="3992814614" seo="true" mt="1450075729269" redirect="true"/>
+  <file name="tickets.html" crc="4085275723" seo="true" mt="1450075597063" redirect="true"/>
+  <file name="untitled-6.html" crc="3962175236" seo="true" mt="1450069976452" redirect="true"/>
+  <file name="director.html" crc="366703954" seo="true" mt="1450072581411" redirect="true"/>
 </manifest>

@@ -1,7 +1,7 @@
 .version.tickets /* version checker */
 {
-	color: #0000E0;
-	background-color: #D32FB3;
+	color: #0000FD;
+	background-color: #F9E94A;
 }
 
 #page
@@ -49,19 +49,29 @@
 	vertical-align: top;
 }
 
+#pu839
+{
+	width: 0.01px;
+	padding-bottom: 152px;
+	margin-right: -10000px;
+	margin-top: -36px;
+	margin-left: -335px;
+}
+
 #u839
 {
 	z-index: 210;
-	height: 50px;
+	width: 1655px;
+	height: 152px;
+	top: -36px;
+	left: -335px;
 }
 
-#u839-bw
+#u2628
 {
-	position: fixed;
-	left: 0px;
-	right: 0px;
-	z-index: 210;
-	top: -36px;
+	z-index: 265;
+	top: -27px;
+	left: -93px;
 }
 
 #menuu840
@@ -74,70 +84,99 @@
 
 #u862
 {
-	width: 110px;
+	width: 87px;
 	min-height: 34px;
 	margin-right: -10000px;
 }
 
 #u863
 {
-	width: 110px;
+	width: 87px;
 	padding-bottom: 12px;
 }
 
 #u2138
 {
-	width: 110px;
+	width: 87px;
 	min-height: 34px;
 	margin-right: -10000px;
-	left: 112px;
+	left: 89px;
 }
 
 #u2139
 {
-	width: 110px;
+	width: 87px;
+	padding-bottom: 12px;
+}
+
+#u863.MuseMenuActive,#u2139.MuseMenuActive
+{
+	width: 87px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u865,#u2142
+{
+	height: 22px;
+	width: 87px;
+	margin-right: -10000px;
+	top: 6px;
+}
+
+#u2731
+{
+	width: 88px;
+	min-height: 34px;
+	margin-right: -10000px;
+	left: 178px;
+}
+
+#u2732
+{
+	width: 88px;
 	padding-bottom: 12px;
 }
 
 #u2145
 {
-	width: 110px;
+	width: 88px;
 	min-height: 34px;
 	margin-right: -10000px;
-	left: 224px;
+	left: 268px;
 }
 
 #u2146
 {
-	width: 110px;
+	width: 88px;
 	padding-bottom: 12px;
 }
 
 #u2152
 {
-	width: 110px;
+	width: 88px;
 	min-height: 34px;
 	margin-right: -10000px;
-	left: 336px;
+	left: 358px;
 }
 
 #u2155
 {
-	width: 110px;
+	width: 88px;
 	padding-bottom: 12px;
 }
 
-#u863.MuseMenuActive,#u2139.MuseMenuActive,#u2146.MuseMenuActive,#u2155.MuseMenuActive
+#u2732.MuseMenuActive,#u2146.MuseMenuActive,#u2155.MuseMenuActive
 {
-	width: 110px;
+	width: 88px;
 	min-height: 0px;
 	margin: 0px;
 }
 
-#u865,#u2142,#u2147,#u2158
+#u2733,#u2147,#u2158
 {
 	height: 22px;
-	width: 110px;
+	width: 88px;
 	margin-right: -10000px;
 	top: 6px;
 }
@@ -207,9 +246,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 14px;
-	color: #6B6B6B;
 	text-align: left;
 	letter-spacing: 1px;
+	color: #6B6B6B;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -303,8 +342,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 14px;
-	color: #999999;
 	text-align: right;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -345,9 +384,9 @@
 	border-color: transparent;
 	background-color: transparent;
 	line-height: 14px;
-	color: #6B6B6B;
 	text-align: left;
 	letter-spacing: 1px;
+	color: #6B6B6B;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -430,8 +469,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 14px;
-	color: #999999;
 	text-align: right;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -470,9 +509,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #6B6B6B;
 	text-align: left;
 	letter-spacing: 1px;
+	color: #6B6B6B;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -555,8 +594,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 14px;
-	color: #999999;
 	text-align: right;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -595,9 +634,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #6B6B6B;
 	text-align: left;
 	letter-spacing: 1px;
+	color: #6B6B6B;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -680,8 +719,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 14px;
-	color: #999999;
 	text-align: right;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -720,9 +759,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #6B6B6B;
 	text-align: left;
 	letter-spacing: 1px;
+	color: #6B6B6B;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -805,8 +844,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 14px;
-	color: #999999;
 	text-align: right;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -845,9 +884,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #6B6B6B;
 	text-align: left;
 	letter-spacing: 1px;
+	color: #6B6B6B;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -930,8 +969,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 14px;
-	color: #999999;
 	text-align: right;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -970,9 +1009,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #6B6B6B;
 	text-align: left;
 	letter-spacing: 1px;
+	color: #6B6B6B;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1055,8 +1094,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 14px;
-	color: #999999;
 	text-align: right;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1102,9 +1141,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	color: #FF0000;
 	line-height: 14px;
 	font-size: 12px;
+	color: #FF0000;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1131,9 +1170,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	color: #00FF00;
 	line-height: 12px;
 	font-size: 12px;
+	color: #00FF00;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1303,9 +1342,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #6B6B6B;
 	text-align: left;
 	letter-spacing: 1px;
+	color: #6B6B6B;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1388,8 +1427,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 14px;
-	color: #999999;
 	text-align: right;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1428,9 +1467,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #6B6B6B;
 	text-align: left;
 	letter-spacing: 1px;
+	color: #6B6B6B;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1513,8 +1552,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 14px;
-	color: #999999;
 	text-align: right;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1553,9 +1592,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #6B6B6B;
 	text-align: left;
 	letter-spacing: 1px;
+	color: #6B6B6B;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1649,8 +1688,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 14px;
-	color: #999999;
 	text-align: right;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1810,9 +1849,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #6B6B6B;
 	text-align: left;
 	letter-spacing: 1px;
+	color: #6B6B6B;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1906,8 +1945,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 14px;
-	color: #999999;
 	text-align: right;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1961,9 +2000,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #6B6B6B;
 	text-align: left;
 	letter-spacing: 1px;
+	color: #6B6B6B;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1981,8 +2020,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 14px;
-	color: #999999;
 	text-align: right;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -2086,9 +2125,9 @@
 	min-height: 20px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #6B6B6B;
 	text-align: left;
 	letter-spacing: 1px;
+	color: #6B6B6B;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2120,8 +2159,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	line-height: 14px;
-	color: #999999;
 	text-align: right;
+	color: #999999;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -2259,9 +2298,9 @@
 	width: 39px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #6B6B6B;
 	text-align: left;
 	letter-spacing: 1px;
+	color: #6B6B6B;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 210px;
@@ -2276,9 +2315,9 @@
 	width: 130px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #6B6B6B;
 	text-align: left;
 	letter-spacing: 1px;
+	color: #6B6B6B;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 210px;
@@ -2293,9 +2332,9 @@
 	width: 151px;
 	background-color: transparent;
 	line-height: 14px;
-	color: #6B6B6B;
 	text-align: left;
 	letter-spacing: 1px;
+	color: #6B6B6B;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2303,16 +2342,54 @@
 	margin-top: 435px;
 }
 
+#u2827
+{
+	z-index: 266;
+	width: 64px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 193px;
+}
+
+#u2833
+{
+	z-index: 268;
+	width: 64px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 193px;
+	left: 68px;
+}
+
+#u2839
+{
+	z-index: 270;
+	width: 64px;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 193px;
+	left: 136px;
+}
+
 #u869
 {
-	z-index: 240;
+	z-index: 247;
 	top: -29px;
 	left: 1011px;
 }
 
+#u869:hover
+{
+	min-height: 0px;
+	margin: 0px;
+}
+
 #u872
 {
-	z-index: 241;
+	z-index: 248;
 	min-height: 75px;
 	padding-bottom: 19px;
 }
@@ -2327,14 +2404,14 @@
 
 #u874
 {
-	z-index: 250;
+	z-index: 257;
 	margin-right: -10000px;
 	margin-top: 26px;
 }
 
 #u880
 {
-	z-index: 256;
+	z-index: 263;
 	margin-right: -10000px;
 	margin-top: 26px;
 	left: 42px;
@@ -2342,7 +2419,7 @@
 
 #u876
 {
-	z-index: 252;
+	z-index: 259;
 	margin-right: -10000px;
 	margin-top: 26px;
 	left: 84px;
@@ -2350,7 +2427,7 @@
 
 #u878
 {
-	z-index: 254;
+	z-index: 261;
 	margin-right: -10000px;
 	margin-top: 26px;
 	left: 127px;
@@ -2358,7 +2435,7 @@
 
 #u873-8
 {
-	z-index: 242;
+	z-index: 249;
 	margin-right: -10000px;
 	margin-top: 15px;
 	left: 1041px;
@@ -2366,7 +2443,7 @@
 
 #u872-bw
 {
-	z-index: 241;
+	z-index: 248;
 	min-height: 75px;
 	margin-bottom: -36px;
 	margin-top: 965px;
