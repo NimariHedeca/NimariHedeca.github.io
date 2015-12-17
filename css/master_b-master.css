@@ -1,7 +1,6 @@
-#u839
+#u2628
 {
 	position: fixed;
-	background: transparent url("../images/bar1-2.png") no-repeat left top;
 }
 
 #menuu840
@@ -171,9 +170,10 @@
 	filter: alpha(opacity=50);
 }
 
-#u2628
+#u839
 {
 	position: fixed;
+	background: transparent url("../images/bar1-2.png") no-repeat left top;
 }
 
 #u872

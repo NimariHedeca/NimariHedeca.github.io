@@ -1,7 +1,7 @@
 .version.tickets /* version checker */
 {
-	color: #0000FD;
-	background-color: #F9E94A;
+	color: #000002;
+	background-color: #DBB8DC;
 }
 
 #page
@@ -49,34 +49,16 @@
 	vertical-align: top;
 }
 
-#pu839
-{
-	width: 0.01px;
-	padding-bottom: 152px;
-	margin-right: -10000px;
-	margin-top: -36px;
-	margin-left: -335px;
-}
-
-#u839
-{
-	z-index: 210;
-	width: 1655px;
-	height: 152px;
-	top: -36px;
-	left: -335px;
-}
-
 #u2628
 {
-	z-index: 265;
+	z-index: 271;
 	top: -27px;
 	left: -93px;
 }
 
 #menuu840
 {
-	z-index: 211;
+	z-index: 217;
 	width: 446px;
 	top: -28px;
 	left: 514px;
@@ -245,10 +227,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	letter-spacing: 1px;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -277,8 +259,8 @@
 	border-color: #C4C4C4;
 	background-color: transparent;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -341,9 +323,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 14px;
-	text-align: right;
 	color: #999999;
+	text-align: right;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -383,10 +365,10 @@
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	letter-spacing: 1px;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -404,8 +386,8 @@
 	border-color: #C4C4C4;
 	background-color: transparent;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -468,9 +450,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 14px;
-	text-align: right;
 	color: #999999;
+	text-align: right;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -508,10 +490,10 @@
 	width: 200px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	letter-spacing: 1px;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -529,8 +511,8 @@
 	border-color: #C4C4C4;
 	background-color: transparent;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -593,9 +575,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 14px;
-	text-align: right;
 	color: #999999;
+	text-align: right;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -633,10 +615,10 @@
 	width: 200px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	letter-spacing: 1px;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -654,8 +636,8 @@
 	border-color: #C4C4C4;
 	background-color: transparent;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -718,9 +700,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 14px;
-	text-align: right;
 	color: #999999;
+	text-align: right;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -758,10 +740,10 @@
 	width: 200px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	letter-spacing: 1px;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -779,8 +761,8 @@
 	border-color: #C4C4C4;
 	background-color: transparent;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -843,9 +825,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 14px;
-	text-align: right;
 	color: #999999;
+	text-align: right;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -883,10 +865,10 @@
 	width: 200px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	letter-spacing: 1px;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -904,8 +886,8 @@
 	border-color: #C4C4C4;
 	background-color: transparent;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -968,9 +950,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 14px;
-	text-align: right;
 	color: #999999;
+	text-align: right;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1008,10 +990,10 @@
 	width: 200px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	letter-spacing: 1px;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1029,8 +1011,8 @@
 	border-color: #C4C4C4;
 	background-color: transparent;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -1093,9 +1075,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 14px;
-	text-align: right;
 	color: #999999;
+	text-align: right;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1113,8 +1095,8 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 14px;
 	font-size: 12px;
+	line-height: 14px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1141,9 +1123,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 14px;
-	font-size: 12px;
 	color: #FF0000;
+	font-size: 12px;
+	line-height: 14px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1170,9 +1152,9 @@
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
 	padding-top: 4px;
-	line-height: 12px;
-	font-size: 12px;
 	color: #00FF00;
+	font-size: 12px;
+	line-height: 12px;
 	font-family: Palatino, Palatino Linotype, Georgia, Times, Times New Roman, serif;
 	position: relative;
 	margin-right: -10000px;
@@ -1257,8 +1239,8 @@
 	border-color: #C4C4C4;
 	background-color: transparent;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -1341,10 +1323,10 @@
 	width: 200px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	letter-spacing: 1px;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1362,8 +1344,8 @@
 	border-color: #C4C4C4;
 	background-color: transparent;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -1426,9 +1408,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 14px;
-	text-align: right;
 	color: #999999;
+	text-align: right;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1466,10 +1448,10 @@
 	width: 200px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	letter-spacing: 1px;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1487,8 +1469,8 @@
 	border-color: #C4C4C4;
 	background-color: transparent;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -1551,9 +1533,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 14px;
-	text-align: right;
 	color: #999999;
+	text-align: right;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1591,10 +1573,10 @@
 	width: 200px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	letter-spacing: 1px;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1612,8 +1594,8 @@
 	border-color: #C4C4C4;
 	background-color: transparent;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -1687,9 +1669,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 14px;
-	text-align: right;
 	color: #999999;
+	text-align: right;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1742,8 +1724,8 @@
 	border-color: #C4C4C4;
 	background-color: transparent;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -1848,10 +1830,10 @@
 	width: 200px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	letter-spacing: 1px;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -1869,8 +1851,8 @@
 	border-color: #C4C4C4;
 	background-color: transparent;
 	padding: 6px;
-	line-height: 14px;
 	color: #C4C4C4;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	font-style: italic;
@@ -1944,9 +1926,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 14px;
-	text-align: right;
 	color: #999999;
+	text-align: right;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -1999,10 +1981,10 @@
 	width: 200px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	letter-spacing: 1px;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2019,9 +2001,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 14px;
-	text-align: right;
 	color: #999999;
+	text-align: right;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -2039,17 +2021,6 @@
 	margin-right: -10000px;
 }
 
-#u1129 input.not_checked + label
-{
-	background: transparent url("../images/checkboxunchecked.jpg") no-repeat center center;
-	background-size: contain;
-}
-#u1129 input:not(:checked) + label
-{
-	background: transparent url("../images/checkboxunchecked.jpg") no-repeat center center;
-	background-size: contain;
-}
-
 #u1129 input.checked + label
 {
 	background: transparent url("../images/checkboxchecked.jpg") no-repeat center center;
@@ -2058,6 +2029,17 @@
 #u1129 input:checked + label
 {
 	background: transparent url("../images/checkboxchecked.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u1129 input.not_checked + label
+{
+	background: transparent url("../images/checkboxunchecked.jpg") no-repeat center center;
+	background-size: contain;
+}
+#u1129 input:not(:checked) + label
+{
+	background: transparent url("../images/checkboxunchecked.jpg") no-repeat center center;
 	background-size: contain;
 }
 
@@ -2124,10 +2106,10 @@
 	width: 200px;
 	min-height: 20px;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	letter-spacing: 1px;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2158,9 +2140,9 @@
 	opacity: 0;
 	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=0)";
 	filter: alpha(opacity=0);
-	line-height: 14px;
-	text-align: right;
 	color: #999999;
+	text-align: right;
+	line-height: 14px;
 	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
 	font-weight: normal;
 	position: relative;
@@ -2196,17 +2178,6 @@
 	margin-right: -10000px;
 }
 
-#u1162 input.not_checked + label
-{
-	background: transparent url("../images/checkboxunchecked.jpg") no-repeat center center;
-	background-size: contain;
-}
-#u1162 input:not(:checked) + label
-{
-	background: transparent url("../images/checkboxunchecked.jpg") no-repeat center center;
-	background-size: contain;
-}
-
 #u1162 input.checked + label
 {
 	background: transparent url("../images/checkboxchecked.jpg") no-repeat center center;
@@ -2215,6 +2186,17 @@
 #u1162 input:checked + label
 {
 	background: transparent url("../images/checkboxchecked.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u1162 input.not_checked + label
+{
+	background: transparent url("../images/checkboxunchecked.jpg") no-repeat center center;
+	background-size: contain;
+}
+#u1162 input:not(:checked) + label
+{
+	background: transparent url("../images/checkboxunchecked.jpg") no-repeat center center;
 	background-size: contain;
 }
 
@@ -2297,10 +2279,10 @@
 	z-index: 198;
 	width: 39px;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	letter-spacing: 1px;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 210px;
@@ -2314,10 +2296,10 @@
 	z-index: 202;
 	width: 130px;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	letter-spacing: 1px;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	margin-left: 210px;
@@ -2331,10 +2313,10 @@
 	z-index: 206;
 	width: 151px;
 	background-color: transparent;
-	line-height: 14px;
-	text-align: left;
 	letter-spacing: 1px;
 	color: #6B6B6B;
+	text-align: left;
+	line-height: 14px;
 	font-family: abel, sans-serif;
 	font-weight: 400;
 	position: relative;
@@ -2342,9 +2324,9 @@
 	margin-top: 435px;
 }
 
-#u2827
+#u2845
 {
-	z-index: 266;
+	z-index: 210;
 	width: 64px;
 	background-color: transparent;
 	position: relative;
@@ -2352,9 +2334,9 @@
 	margin-top: 193px;
 }
 
-#u2833
+#u2847
 {
-	z-index: 268;
+	z-index: 212;
 	width: 64px;
 	background-color: transparent;
 	position: relative;
@@ -2363,9 +2345,9 @@
 	left: 68px;
 }
 
-#u2839
+#u2849
 {
-	z-index: 270;
+	z-index: 214;
 	width: 64px;
 	background-color: transparent;
 	position: relative;
@@ -2376,7 +2358,7 @@
 
 #u869
 {
-	z-index: 247;
+	z-index: 253;
 	top: -29px;
 	left: 1011px;
 }
@@ -2387,9 +2369,18 @@
 	margin: 0px;
 }
 
+#u839
+{
+	z-index: 216;
+	width: 1655px;
+	height: 152px;
+	top: -39px;
+	left: -335px;
+}
+
 #u872
 {
-	z-index: 248;
+	z-index: 254;
 	min-height: 75px;
 	padding-bottom: 19px;
 }
@@ -2404,14 +2395,14 @@
 
 #u874
 {
-	z-index: 257;
+	z-index: 263;
 	margin-right: -10000px;
 	margin-top: 26px;
 }
 
 #u880
 {
-	z-index: 263;
+	z-index: 269;
 	margin-right: -10000px;
 	margin-top: 26px;
 	left: 42px;
@@ -2419,7 +2410,7 @@
 
 #u876
 {
-	z-index: 259;
+	z-index: 265;
 	margin-right: -10000px;
 	margin-top: 26px;
 	left: 84px;
@@ -2427,7 +2418,7 @@
 
 #u878
 {
-	z-index: 261;
+	z-index: 267;
 	margin-right: -10000px;
 	margin-top: 26px;
 	left: 127px;
@@ -2435,7 +2426,7 @@
 
 #u873-8
 {
-	z-index: 249;
+	z-index: 255;
 	margin-right: -10000px;
 	margin-top: 15px;
 	left: 1041px;
@@ -2443,7 +2434,7 @@
 
 #u872-bw
 {
-	z-index: 248;
+	z-index: 254;
 	min-height: 75px;
 	margin-bottom: -36px;
 	margin-top: 965px;

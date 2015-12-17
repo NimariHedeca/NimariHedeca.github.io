@@ -1,7 +1,7 @@
 .version.films /* version checker */
 {
-	color: #00001D;
-	background-color: #8C7D1C;
+	color: #0000EE;
+	background-color: #CCF284;
 }
 
 .html
@@ -184,33 +184,19 @@
 	background-size: cover;
 }
 
-#pppu839
+#ppu2628
 {
 	width: 0.01px;
-	padding-bottom: 561px;
-	margin-left: -335px;
-	margin-top: -786px;
+	margin-left: -193px;
+	margin-top: -779px;
 }
 
-#ppu839
+#pu2628
 {
 	width: 0.01px;
 	margin-right: -10000px;
-}
-
-#pu839
-{
-	width: 0.01px;
-	padding-bottom: 152px;
-}
-
-#u839
-{
-	z-index: 208;
-	width: 1655px;
-	height: 152px;
-	top: -36px;
-	left: -335px;
+	margin-top: 2px;
+	padding: 89px 155px 615px 193px;
 }
 
 #u2628
@@ -1122,6 +1108,15 @@
 	left: 464px;
 	background: #FFFFFF url("../images/screen%20shot%202015-11-27%20at%20125437%20am%20copy.jpg") no-repeat left top;
 	background-size: cover;
+}
+
+#u839
+{
+	z-index: 208;
+	width: 1655px;
+	height: 152px;
+	top: 2976px;
+	left: -335px;
 }
 
 #u872
