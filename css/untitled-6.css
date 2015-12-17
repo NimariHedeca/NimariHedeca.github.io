@@ -1,7 +1,7 @@
 .version.untitled_6 /* version checker */
 {
-	color: #0000EE;
-	background-color: #AB9483;
+	color: #0000E3;
+	background-color: #3F602D;
 }
 
 .html
@@ -13,7 +13,7 @@
 {
 	z-index: 1;
 	width: 960px;
-	min-height: 4379.822865128925px;
+	min-height: 4379.849999999999px;
 	background-image: none;
 	border-style: none;
 	border-color: #000000;
@@ -25,23 +25,25 @@
 
 #page_position_content
 {
-	margin-top: -29px;
+	margin-top: -36px;
 	margin-bottom: -36px;
 	width: 0.01px;
 }
 
-#pu2628
+#pu839
 {
 	width: 0.01px;
-	padding-bottom: 104px;
-	margin-left: -93px;
+	padding-bottom: 152px;
+	margin-left: -335px;
 }
 
-#u2628
+#u839
 {
-	z-index: 95;
-	top: -27px;
-	left: -93px;
+	z-index: 40;
+	width: 1655px;
+	height: 152px;
+	top: -36px;
+	left: -335px;
 }
 
 #menuu840
@@ -164,6 +166,13 @@
 	margin: 0px;
 }
 
+#u2628
+{
+	z-index: 95;
+	top: -27px;
+	left: -93px;
+}
+
 #u1898
 {
 	z-index: 2;
@@ -244,7 +253,7 @@
 	font-size: 72px;
 	line-height: 86px;
 	margin-left: 522px;
-	margin-top: 702px;
+	margin-top: 661px;
 	position: relative;
 }
 
@@ -364,15 +373,6 @@
 	position: relative;
 	background: #FFFFFF url("../images/screen%20shot%202015-11-26%20at%2040153%20pm.jpg") no-repeat center top;
 	background-size: cover;
-}
-
-#u839
-{
-	z-index: 40;
-	width: 1655px;
-	height: 152px;
-	top: 3735px;
-	left: -335px;
 }
 
 #u872

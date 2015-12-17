@@ -1,7 +1,7 @@
 .version.director /* version checker */
 {
-	color: #0000F6;
-	background-color: #0AD7F8;
+	color: #0000FE;
+	background-color: #3DCF77;
 }
 
 .html
@@ -23,27 +23,34 @@
 	margin-right: auto;
 }
 
-#u2778
+#ppu839
 {
-	z-index: 23;
-	width: 60px;
-	min-height: 64px;
-	border-style: none;
-	border-color: transparent;
-	background-color: transparent;
-	position: relative;
-	margin-right: -10000px;
-	margin-top: 125px;
-	left: -295px;
-}
-
-#davidfincher
-{
-	position: relative;
-	width: 22px;
+	width: 0.01px;
 	margin-right: -10000px;
 	margin-top: -36px;
-	left: -219px;
+	margin-left: -335px;
+}
+
+#pu839
+{
+	width: 0.01px;
+	padding-bottom: 152px;
+}
+
+#u839
+{
+	z-index: 54;
+	width: 1655px;
+	height: 152px;
+	top: -36px;
+	left: -335px;
+}
+
+#u2628
+{
+	z-index: 109;
+	top: -27px;
+	left: -93px;
 }
 
 #u2751-4
@@ -63,20 +70,42 @@
 	vertical-align: top;
 }
 
+#pu2778
+{
+	width: 0.01px;
+	margin-right: -10000px;
+	margin-top: -36px;
+	margin-left: -295px;
+}
+
+#u2778
+{
+	z-index: 23;
+	width: 60px;
+	min-height: 64px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 161px;
+}
+
+#davidfincher
+{
+	position: relative;
+	width: 22px;
+	margin-right: -10000px;
+	left: 76px;
+}
+
 #filmography
 {
 	position: relative;
 	width: 22px;
 	margin-right: -10000px;
-	margin-top: 526px;
-	left: -193px;
-}
-
-#u2628
-{
-	z-index: 109;
-	top: -27px;
-	left: -93px;
+	margin-top: 562px;
+	left: 102px;
 }
 
 #ppu2749-5
@@ -346,15 +375,6 @@
 {
 	min-height: 0px;
 	margin: 0px;
-}
-
-#u839
-{
-	z-index: 54;
-	width: 1655px;
-	height: 152px;
-	top: -142px;
-	left: -335px;
 }
 
 #u872

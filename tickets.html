@@ -3,7 +3,7 @@
  <head>
 
   <script type="text/javascript">
-   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.musepolyfill.bgsize.js", "jquery.scrolleffects.js", "jquery.watch.js", "jquery.musemenu.js", "webpro.js", "tickets.css"], "outOfDate":[]};
+   if(typeof Muse == "undefined") window.Muse = {}; window.Muse.assets = {"required":["jquery-1.8.3.min.js", "museutils.js", "jquery.scrolleffects.js", "jquery.musemenu.js", "jquery.musepolyfill.bgsize.js", "jquery.watch.js", "webpro.js", "tickets.css"], "outOfDate":[]};
 </script>
   
   <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
@@ -11,8 +11,8 @@
   <title>Tickets</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?114841889"/>
-  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?28981326"/>
-  <link rel="stylesheet" type="text/css" href="css/tickets.css?47954140" id="pagesheet"/>
+  <link rel="stylesheet" type="text/css" href="css/master_b-master.css?328605915"/>
+  <link rel="stylesheet" type="text/css" href="css/tickets.css?450803030" id="pagesheet"/>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
@@ -34,7 +34,10 @@ var __adobewebfontsappname__ = "muse";
      <img id="u935-4_img" alt="Tickets" width="406" height="162" src="images/u935-4.png"/>
     </div>
    </div>
-   <img class="svg mse_pre_init" id="u2628" src="images/pasted%20svg%20152217x80.svg" width="248" height="102" alt="" data-mu-svgfallback="images/pasted%20svg%20152217x80_poster_.png"/><!-- svg -->
+   <div class="clearfix grpelem" id="pu839"><!-- group -->
+    <div class="mse_pre_init" id="u839"><!-- simple frame --></div>
+    <img class="svg mse_pre_init" id="u2628" src="images/pasted%20svg%20152217x80.svg" width="248" height="102" alt="" data-mu-svgfallback="images/pasted%20svg%20152217x80_poster_.png"/><!-- svg -->
+   </div>
    <nav class="MenuBar clearfix mse_pre_init" id="menuu840"><!-- horizontal box -->
     <div class="MenuItemContainer clearfix grpelem" id="u862"><!-- vertical box -->
      <a class="nonblock nontext MenuItem MenuItemWithSubMenu clearfix colelem" id="u863" href="index.html"><!-- horizontal box --><img class="MenuItemLabel NoWrap grpelem" id="u865" alt="Home" src="images/blank.gif"/><!-- state-based BG images --></a>
@@ -191,7 +194,6 @@ var __adobewebfontsappname__ = "muse";
    </div>
    <a class="nonblock nontext MuseLinkActive mse_pre_init" id="u869" href="tickets.html"><!-- svg --><img class="svg" src="images/pasted%20svg%2010432x98.svg" width="34" height="33" alt="" data-mu-svgfallback="images/pasted%20svg%2010432x98_poster_.png"/></a>
    <div class="verticalspacer"></div>
-   <div class="mse_pre_init" id="u839"><!-- simple frame --></div>
    <div class="browser_width grpelem" id="u872-bw">
     <div id="u872"><!-- group -->
      <div class="clearfix" id="u872_align_to_page">
@@ -254,12 +256,12 @@ typeof $!="undefined"?Muse.assets.required.splice(d,1):d++;break;default:throw E
 Muse.Utils.transformMarkupToFixBrowserProblemsPreInit();/* body */
 Muse.Utils.prepHyperlinks(true);/* body */
 $('#u1123').registerBackgroundPositionScrollEffect([{"speed":[0,0],"in":[-Infinity,-100.4]},{"speed":[0,0],"in":[-100.4,Infinity]}]);/* scroll effect */
+$('#u839').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,0.05]},{"speed":[0,0],"in":[0.05,Infinity]}]);/* scroll effect */
 $('#u2628').registerPositionScrollEffect([{"speed":[0,1],"in":[-Infinity,0]},{"speed":[0,0],"in":[0,Infinity]}]);/* scroll effect */
 Muse.Utils.initWidget('.MenuBar', function(elem) { return $(elem).museMenu(); });/* unifiedNavBar */
 $('#menuu840').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,0.05]},{"speed":[0,0],"in":[0.05,Infinity]}]);/* scroll effect */
 Muse.Utils.initWidget('#widgetu990', function(elem) { new WebPro.Widget.Form(elem, {validationEvent:'submit',errorStateSensitivity:'high',fieldWrapperClass:'fld-grp',formSubmittedClass:'frm-sub-st',formErrorClass:'frm-subm-err-st',formDeliveredClass:'frm-subm-ok-st',notEmptyClass:'non-empty-st',focusClass:'focus-st',invalidClass:'fld-err-st',requiredClass:'fld-err-st',ajaxSubmit:true}); });/* #widgetu990 */
 $('#u869').registerPositionScrollEffect([{"speed":[0,-1],"in":[-Infinity,-0.15]},{"speed":[0,0],"in":[-0.15,Infinity]}]);/* scroll effect */
-$('#u839').registerPositionScrollEffect([{"speed":[1,0],"in":[-Infinity,-2.95]},{"speed":[0,0],"in":[-2.95,Infinity]}]);/* scroll effect */
 Muse.Utils.resizeHeight()/* resize height */
 Muse.Utils.fullPage('#page');/* 100% height page */
 Muse.Utils.showWidgetsWhenReady();/* body */

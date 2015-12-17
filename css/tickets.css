@@ -1,7 +1,7 @@
 .version.tickets /* version checker */
 {
-	color: #000002;
-	background-color: #DBB8DC;
+	color: #00001A;
+	background-color: #DEB556;
 }
 
 #page
@@ -47,6 +47,24 @@
 {
 	display: block;
 	vertical-align: top;
+}
+
+#pu839
+{
+	width: 0.01px;
+	padding-bottom: 152px;
+	margin-right: -10000px;
+	margin-top: -36px;
+	margin-left: -335px;
+}
+
+#u839
+{
+	z-index: 216;
+	width: 1655px;
+	height: 152px;
+	top: -36px;
+	left: -335px;
 }
 
 #u2628
@@ -2021,17 +2039,6 @@
 	margin-right: -10000px;
 }
 
-#u1129 input.checked + label
-{
-	background: transparent url("../images/checkboxchecked.jpg") no-repeat center center;
-	background-size: contain;
-}
-#u1129 input:checked + label
-{
-	background: transparent url("../images/checkboxchecked.jpg") no-repeat center center;
-	background-size: contain;
-}
-
 #u1129 input.not_checked + label
 {
 	background: transparent url("../images/checkboxunchecked.jpg") no-repeat center center;
@@ -2040,6 +2047,17 @@
 #u1129 input:not(:checked) + label
 {
 	background: transparent url("../images/checkboxunchecked.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u1129 input.checked + label
+{
+	background: transparent url("../images/checkboxchecked.jpg") no-repeat center center;
+	background-size: contain;
+}
+#u1129 input:checked + label
+{
+	background: transparent url("../images/checkboxchecked.jpg") no-repeat center center;
 	background-size: contain;
 }
 
@@ -2178,17 +2196,6 @@
 	margin-right: -10000px;
 }
 
-#u1162 input.checked + label
-{
-	background: transparent url("../images/checkboxchecked.jpg") no-repeat center center;
-	background-size: contain;
-}
-#u1162 input:checked + label
-{
-	background: transparent url("../images/checkboxchecked.jpg") no-repeat center center;
-	background-size: contain;
-}
-
 #u1162 input.not_checked + label
 {
 	background: transparent url("../images/checkboxunchecked.jpg") no-repeat center center;
@@ -2197,6 +2204,17 @@
 #u1162 input:not(:checked) + label
 {
 	background: transparent url("../images/checkboxunchecked.jpg") no-repeat center center;
+	background-size: contain;
+}
+
+#u1162 input.checked + label
+{
+	background: transparent url("../images/checkboxchecked.jpg") no-repeat center center;
+	background-size: contain;
+}
+#u1162 input:checked + label
+{
+	background: transparent url("../images/checkboxchecked.jpg") no-repeat center center;
 	background-size: contain;
 }
 
@@ -2367,15 +2385,6 @@
 {
 	min-height: 0px;
 	margin: 0px;
-}
-
-#u839
-{
-	z-index: 216;
-	width: 1655px;
-	height: 152px;
-	top: -39px;
-	left: -335px;
 }
 
 #u872
