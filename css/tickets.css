@@ -1,7 +1,7 @@
 .version.tickets /* version checker */
 {
-	color: #00001A;
-	background-color: #DEB556;
+	color: #000009;
+	background-color: #685DCA;
 }
 
 #page
@@ -26,7 +26,7 @@
 	margin-right: -10000px;
 	margin-top: -36px;
 	left: -346px;
-	background: transparent url("../images/img_9000.jpg") no-repeat left center;
+	background: transparent url("../images/tickets.jpg") no-repeat left top;
 	background-size: cover;
 }
 
